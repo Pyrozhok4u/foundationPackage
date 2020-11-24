@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e982493ea571d2afcab88f0bb5c0661b:7ab3889cdb2b08c3096d2e67956fe301:fe4cf355a86ffebcf1c77974411d5789$
+#
+:format=40300
+:texture=Background.png
+:size=4096x4096
+:pivotpoints=enabled
+:borders=disabled
+
+Mythological Background2;1;1935;3840;2160; 0.5;0.5; 0;0;0;0

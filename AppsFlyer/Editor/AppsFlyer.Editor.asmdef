@@ -1,0 +1,17 @@
+{
+    "name": "AppsFlyer.Editor",
+    "references": [
+        "GUID:85a0eee73a3ba450cb5c9bb4bb5d33be"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

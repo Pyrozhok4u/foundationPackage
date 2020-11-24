@@ -1,0 +1,22 @@
+syntax = "proto3";
+package messages;
+option csharp_namespace = "Foundation.Network";
+
+message CmdRequest {
+    string eventName = 1;
+    string msgId = 2;
+    string api = 3;
+    bytes params = 4;
+    int32 beforeDelay = 5;
+    int32 afterDelay = 6;
+    string reqMessageName = 7;
+    string resMessageName = 8;
+}
+
+message CmdResponse {
+    string eventName = 1;
+    string msgId = 2;
+    bool success = 3;
+    int32 errorCode = 4;
+    bytes payload = 5;
+}

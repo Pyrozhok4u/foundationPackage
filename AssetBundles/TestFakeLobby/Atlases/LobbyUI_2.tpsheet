@@ -1,0 +1,142 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:fef295d16c9c8be3b34ef551f67dbdff:a60e123eba1ca484e2ba6ce6cd0fc134:044d11e818af59b1bda145542e8ac34a$
+#
+:format=40300
+:texture=LobbyUI.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+friends_bonus_icon;1400;768;136;131; 0.5;0.5; 0;0;0;0
+ftue_buttons_blue;1605;1290;378;151; 0.5;0.5; 0;0;0;0
+ftue_buttons_disabled;1400;901;179;151; 0.5307262569832403;0.5; 0;0;0;0
+ftue_buttons_green;1217;1274;378;151; 0.5;0.5; 0;0;0;0
+ftue_firstcar;1224;1582;518;189; 0.5;0.5; 0;0;0;0
+ftue_flare;931;1759;291;288; 0.5;0.5; 0;0;0;0
+ftue_peli1;428;1666;352;381; 0.5;0.5; 0;0;0;0
+ftue_popup_body;1022;989;164;182; 0.5;0.5; 0;0;0;0
+ftue_popup_body_fold;976;1629;246;128; 0.5;0.5; 0;0;0;0
+ftue_popup_body_plus;1949;794;98;92; 0.5;0.5; 0;0;0;0
+ftue_popup_body_stitch;931;1631;20;8; 0.5;0.5; 0;0;0;0
+ftue_popup_frame;1404;1054;190;218; 0.5;0.5; 0;0;0;0
+ftue_popup_frame_sparkle;736;647;116;116; 0.5;0.5; 0;0;0;0
+ftue_popup_goldframe2;602;1378;249;134; 0.5;0.5; 0;0;0;0
+ftue_tooltip_body;1959;1009;87;162; 0.5;0.5; 0;0;0;0
+ftue_tooltip_body_speechbubble;895;1629;34;35; 0.5;0.5; 0;0;0;0
+generic_inner_frame;263;1063;216;194; 0.5;0.5; 0;0;0;0
+lobby_bottombar_bdcollection;1775;1686;251;232; 0.5;0.5; 0;0;0;0
+lobby_bottombar_seperator_x;947;833;43;46; 0.5;0.5; 0;0;0;0
+lobby_rightbuttons_bingomaster_icon;1808;1016;140;131; 0.5;0.5; 0;0;0;0
+lobby_rightbuttons_bingomaster_ribbon;1166;905;150;65; 0.5;0.5; 0;0;0;0
+lobby_rightbuttons_daily_icon;1144;699;133;137; 0.5;0.5; 0;0;0;0
+lobby_rightbuttons_daily_ribbon;1166;838;150;65; 0.5;0.5; 0;0;0;0
+lobby_rightbuttons_minigame_icon;1605;1443;136;137; 0.5;0.5; 0;0;0;0
+lobby_rightbuttons_minigame_ribbon;992;787;150;65; 0.5;0.5; 0;0;0;0
+new_popup_i;854;672;91;91; 0.5;0.5; 0;0;0;0
+new_popup_stitch_horizontal;1744;1730;29;12; 0.5344827586206896;0.5; 0;0;0;0
+new_popup_stitch_vertical;2028;1885;9;33; 0.5;0.5606060606060606; 0;0;0;0
+new_popup_x;854;579;91;91; 0.5;0.5; 0;0;0;0
+newlobby_bottombar_events_progressbar;486;1333;113;40; 0.5;0.5; 0;0;0;0
+newlobby_bottombar_events_progressbar_fill;830;556;90;21; 0.5;0.5; 0;0;0;0
+newlobby_buttons_play;893;1351;322;148; 0.5;0.5; 0;0;0;0
+newlobby_buttons_sidebuttons_icons_inbox;1959;1173;88;74; 0.5;0.5; 0;0;0;0
+newlobby_buttons_sidebuttons_icons_sale;992;854;172;133; 0.5;0.5; 0;0;0;0
+newlobby_highwaypass_body;782;1750;147;297; 0.5;0.5; 0;0;0;0
+newlobby_highwaypass_button_premium;481;1137;115;91; 0.5;0.5; 0;0;0;0
+newlobby_highwaypass_progressbar_bingoicon;1400;670;83;96; 0.5;0.5; 0;0;0;0
+newlobby_highwaypass_progressbar_body;931;1641;34;23; 0.5;0.5; 0;0;0;0
+newlobby_highwaypass_progressbar_fill;1077;1326;89;23; 0.5;0.5; 0;0;0;0
+newlobby_highwaypass_rankicon;830;1314;61;62; 0.5;0.5; 0;0;0;0
+newlobby_notification_1;1994;1627;51;51; 0.5;0.5; 0;0;0;0
+newlobby_notification_2;740;892;47;47; 0.5;0.5; 0;0;0;0
+newlobby_notification_mark;1567;624;56;56; 0.5;0.5; 0;0;0;0
+newlobby_pc_arrows;830;428;84;126; 0.5;0.5; 0;0;0;0
+newlobby_pc_arrows2;1927;515;78;145; 0.5;0.5; 0;0;0;0
+newlobby_pc_body;1;840;260;533; 0.5;0.5; 0;0;0;0
+newlobby_pc_body_golden;166;1514;260;533; 0.5;0.5; 0;0;0;0
+newlobby_pc_stamps_highroller;481;1023;105;112; 0.5;0.5; 0;0;0;0
+newlobby_pc_stamps_specialpatterns;947;673;123;112; 0.5;0.5; 0;0;0;0
+newlobby_pc_titlebar_ribbon;1224;1917;549;130; 0.5;0.5; 0;0;0;0
+newlobby_topbar_currencies_icons_helper;1854;544;58;75; 0.5;0.5; 0;0;0;0
+newlobby_topbar_profile_car_bg;874;1666;81;82; 0.5;0.5; 0;0;0;0
+newlobby_topbar_profile_car_frame;475;820;100;102; 0.5;0.5; 0;0;0;0
+newlobby_topbar_profile_frame;1985;1249;61;124; 0.5;0.5; 0;0;0;0
+newlobby_topbar_profile_progressbar_bg;1168;1326;45;23; 0.5;0.5; 0;0;0;0
+newlobby_topbar_profile_progressbar_fill;922;547;89;23; 0.5;0.5; 0;0;0;0
+newlobby_topbar_profile_progressbar_frame;893;1318;96;31; 0.5;0.5; 0;0;0;0
+newlobby_topbar_profile_star;1343;628;55;51; 0.5;0.5; 0;0;0;0
+newlobby_topbar_settings;1772;584;80;78; 0.5;0.5; 0;0;0;0
+newlobby_topbar_storeplus;740;844;46;46; 0.5;0.5; 0;0;0;0
+popup_title_ribbon;428;1514;465;150; 0.5;0.5; 0;0;0;0
+popup_title_ribbon_straight;1224;1773;542;142; 0.5;0.5; 0;0;0;0
+settings_btns_apple;1597;1149;360;139; 0.5;0.5; 0;0;0;0
+settings_btns_facebook;830;1173;360;139; 0.5;0.5; 0;0;0;0
+settings_btns_fullscreen;1861;672;75;75; 0.5;0.5; 0;0;0;0
+settings_btns_gender_female;916;461;84;84; 0.5;0.5; 0;0;0;0
+settings_btns_gender_male;1538;766;84;84; 0.5;0.5; 0;0;0;0
+settings_btns_support;895;1501;326;126; 0.5;0.5; 0;0;0;0
+settings_btns_www;420;692;150;126; 0.5;0.5; 0;0;0;0
+settings_checkbox_x;1706;620;64;68; 0.5;0.5; 0;0;0;0
+shop_deals_art_1_coins;577;711;157;111; 0.5;0.5; 0;0;0;0
+shop_deals_art_1_credits;788;765;157;114; 0.5;0.5; 0;0;0;0
+shop_deals_art_1_daub;1780;749;157;123; 0.5;0.5; 0;0;0;0
+shop_deals_art_1_powerups;581;824;157;115; 0.5;0.5; 0;0;0;0
+shop_deals_art_2_coins;1581;852;197;143; 0.5;0.5; 0;0;0;0
+shop_deals_art_2_credits;793;881;197;143; 0.5;0.5; 0;0;0;0
+shop_deals_art_3_daub;598;1089;210;153; 0.5;0.5; 0;0;0;0
+shop_deals_art_3_tickets_bronze;810;1026;210;145; 0.5;0.5; 0;0;0;0
+shop_deals_art_3_tickets_silver;1188;972;210;145; 0.5;0.5; 0;0;0;0
+shop_deals_art_4_coins;263;908;210;153; 0.5;0.5; 0;0;0;0
+shop_deals_art_4_credits;1192;1119;210;153; 0.5;0.5; 0;0;0;0
+shop_deals_art_4_powerups;1596;997;210;150; 0.5;0.5; 0;0;0;0
+shop_deals_badges;1808;874;139;140; 0.5;0.5; 0;0;0;0
+shop_deals_body;1;1375;163;672; 0.5;0.5; 0;0;0;0
+shop_deals_body_stitch;956;1752;18;5; 0.4722222222222222;0.5; 0;0;0;0
+shop_deals_icons_cards;572;647;93;62; 0.5;0.5; 0;0;0;0
+shop_deals_icons_chest1;1567;722;55;42; 0.5;0.5; 0;0;0;0
+shop_deals_icons_chest2;1985;1375;62;48; 0.5;0.5; 0;0;0;0
+shop_deals_icons_chest3;1706;690;66;51; 0.5;0.5; 0;0;0;0
+shop_deals_icons_chest4;1861;621;64;49; 0.5;0.5; 0;0;0;0
+shop_deals_icons_daubalert;1939;662;102;130; 0.5;0.5; 0;0;0;0
+shop_deals_icons_powerups_advanced;1072;698;68;87; 0.5;0.5; 0;0;0;0
+shop_deals_icons_powerups_basic;667;622;67;87; 0.5;0.5; 0;0;0;0
+shop_deals_icons_powerups_unique;1072;609;68;87; 0.5;0.5; 0;0;0;0
+shop_deals_icons_raritystar;1744;1744;29;27; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_body;263;760;155;146; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_body_cornerstitch;853;1466;38;46; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_body_divider;931;1752;23;5; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_body_innerframe;782;1666;90;82; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_body_innerframe_boostedframe;475;924;104;97; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_body_innerframe_titles_advanced;1706;743;71;52; 0.5;0.4903846153846154; 0;0;0;0
+shop_deals_inventory_body_innerframe_titles_unique;1706;797;71;53; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_powerups_doublexp;1318;887;80;83; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_powerups_freedaub;1318;802;80;83; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_powerups_house;1261;596;80;83; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_powerups_instantbingo;1624;767;80;83; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_powerups_joker;1624;682;80;83; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_powerups_nitro;1485;681;80;83; 0.5;0.5; 0;0;0;0
+shop_deals_inventory_powerups_shuffle;1779;664;80;83; 0.5;0.5; 0;0;0;0
+shop_deals_previouspriceline;991;1323;84;26; 0.5;0.5; 0;0;0;0
+shop_deals_purchasebutton;1223;1427;380;153; 0.5013157894736842;0.5; 0;0;0;0
+shop_deals_titleribbon;166;1375;434;137; 0.5;0.5; 0;0;0;0
+shop_fade_to_black;1994;1425;50;200; 0.5;0.5; 0;0;0;0
+shop_i;1279;681;119;119; 0.5;0.5; 0;0;0;0
+shop_rank_bg50opacity;1142;593;117;104; 0.5;0.5; 0;0;0;0
+shop_rank_icon;736;499;92;146; 0.5;0.5; 0;0;0;0
+shop_rank_sidemenu_body;1744;1680;294;4; 0.5;0.5; 0;0;0;0
+shop_rank_sidemenu_icons_boosts;1949;888;98;119; 0.5;0.5; 0;0;0;0
+shop_rank_sidemenu_icons_coins;947;572;96;99; 0.5;0.5; 0;0;0;0
+shop_rank_sidemenu_icons_powerups;1045;509;94;98; 0.5;0.5; 0;0;0;0
+shop_rank_sidemenu_icons_tickets;486;1230;110;101; 0.5;0.5; 0;0;0;0
+shop_rank_sidemenu_stitch;2044;2027;3;20; 0.5;0.525; 0;0;0;0
+tourIcon_1;1775;1920;267;127; 0.5;0.5; 0;0;0;0
+tourIcon_203;263;1259;221;114; 0.5;0.5; 0;0;0;0
+tourIcon_301;602;1244;226;132; 0.5;0.5; 0;0;0;0
+tourIcon_302;588;941;203;146; 0.5;0.5; 0;0;0;0
+tourIcon_401;1743;1443;247;111; 0.5;0.5; 0;0;0;0
+tourIcon_501;1744;1556;248;122; 0.5;0.5; 0;0;0;0

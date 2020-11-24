@@ -1,0 +1,18 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/AssetBundles/TestFakeLobby/Atlases/Background_3.tpsheet
+- Assets/AssetBundles/TestFakeLobby/Atlases/LobbyUI_2.tpsheet
+- Assets/AssetBundles/TestFakeLobby/Atlases/Postcards_2.tpsheet
+- Assets/AssetBundles/TestFakeLobby/Atlases/Test_1.tpsheet
+textureFileNames:
+- Assets/AssetBundles/TestFakeLobby/Atlases/Background.png
+- Assets/AssetBundles/TestFakeLobby/Atlases/LobbyUI.png
+- Assets/AssetBundles/TestFakeLobby/Atlases/Postcards.png
+- Assets/AssetBundles/TestFakeLobby/Atlases/Test.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

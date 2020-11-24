@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:46ab8a62bff7e0f974e4abb81bb6a3bd:b41b617ba2945d457a332e51f1f81848:86917bb617393ad6a8180d43501217df$
+#
+:format=40300
+:texture=Postcards.png
+:size=4096x4096
+:pivotpoints=enabled
+:borders=disabled
+
+postcard_foodBonAppetit;1;1381;2790;1356; 0.5;0.5; 0;0;0;0
+postcard_foodFrench_1;1;23;2790;1356; 0.5;0.5; 0;0;0;0
+postcard_NYappetizers_1;1;2739;2790;1356; 0.5;0.5; 0;0;0;0

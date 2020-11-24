@@ -1,0 +1,8 @@
+<linker>
+  <assembly fullname="Google.Protobuf" ignoreIfMissing="1">
+    <type fullname="Google.Protobuf.*" preserve="all"/>
+  </assembly>
+  <assembly fullname="System.Memory" ignoreIfMissing="1">
+    <type fullname="System.Memory.*" preserve="all"/>
+  </assembly>
+</linker>

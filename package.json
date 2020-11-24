@@ -1,0 +1,16 @@
+{
+  "name": "com.glidingdeer.foundation",
+  "displayName": "Foundation Package",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "author": "Glidingdeer Pyrozhok",
+  "description": "Foundation for developing new projects git",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pyrozhok4u/com.glidingdeer.foundationlogger.git",
+    "revision": "ad33c7198e2e9af86f16e3e39569e529a0216e06"
+  }
+}

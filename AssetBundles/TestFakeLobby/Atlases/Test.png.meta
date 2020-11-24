@@ -1,0 +1,3200 @@
+fileFormatVersion: 2
+guid: 153d5510ff47b0745b5a055fdbec1dff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8122018410315734021
+    second: friends_bonus_icon
+  - first:
+      213: -1215558218302452968
+    second: ftue_buttons_blue
+  - first:
+      213: 8859213312786655018
+    second: ftue_buttons_disabled
+  - first:
+      213: -7785650638317466660
+    second: ftue_buttons_green
+  - first:
+      213: 9135270262875554313
+    second: ftue_firstcar
+  - first:
+      213: -6868126974706268934
+    second: ftue_flare
+  - first:
+      213: 7750374549485927629
+    second: ftue_peli1
+  - first:
+      213: -1936996209985076325
+    second: ftue_popup_body
+  - first:
+      213: 1278093327312938319
+    second: ftue_popup_body_fold
+  - first:
+      213: -7848911734782510670
+    second: ftue_popup_body_plus
+  - first:
+      213: 6276727893794533747
+    second: ftue_popup_body_stitch
+  - first:
+      213: -6380770836310960928
+    second: ftue_popup_frame
+  - first:
+      213: 2520023405978827489
+    second: ftue_popup_frame_sparkle
+  - first:
+      213: -6141330274678420499
+    second: ftue_popup_goldframe2
+  - first:
+      213: 1416116648104184983
+    second: ftue_tooltip_body
+  - first:
+      213: -5018954360260017182
+    second: ftue_tooltip_body_speechbubble
+  - first:
+      213: -400321678758881992
+    second: generic_inner_frame
+  - first:
+      213: 5338535770872469966
+    second: lobby_bottombar_bdcollection
+  - first:
+      213: -565980704509525837
+    second: lobby_bottombar_seperator_x
+  - first:
+      213: -7038554905270267080
+    second: lobby_rightbuttons_bingomaster_icon
+  - first:
+      213: -7659423210752550853
+    second: lobby_rightbuttons_bingomaster_ribbon
+  - first:
+      213: 7222457067838892099
+    second: lobby_rightbuttons_daily_icon
+  - first:
+      213: -2182344446324627320
+    second: lobby_rightbuttons_daily_ribbon
+  - first:
+      213: -7633151814034250645
+    second: lobby_rightbuttons_minigame_icon
+  - first:
+      213: 5520431528590501188
+    second: lobby_rightbuttons_minigame_ribbon
+  - first:
+      213: -2910584401266657879
+    second: new_popup_i
+  - first:
+      213: 3971566221026754996
+    second: new_popup_stitch_horizontal
+  - first:
+      213: 7233676282852016326
+    second: new_popup_stitch_vertical
+  - first:
+      213: 1184941392389002502
+    second: new_popup_x
+  - first:
+      213: 802211602398960291
+    second: newlobby_bottombar_events_progressbar
+  - first:
+      213: 8904573492203720236
+    second: newlobby_bottombar_events_progressbar_fill
+  - first:
+      213: -7805712721395751387
+    second: newlobby_buttons_play
+  - first:
+      213: -4017302798942567589
+    second: newlobby_buttons_sidebuttons_icons_inbox
+  - first:
+      213: -1450430880078244574
+    second: newlobby_buttons_sidebuttons_icons_sale
+  - first:
+      213: -1155679559261842627
+    second: newlobby_highwaypass_body
+  - first:
+      213: -5774889165524901801
+    second: newlobby_highwaypass_button_premium
+  - first:
+      213: -8493306992609829181
+    second: newlobby_highwaypass_progressbar_bingoicon
+  - first:
+      213: -6575910026915614975
+    second: newlobby_highwaypass_progressbar_body
+  - first:
+      213: 1395493247551390708
+    second: newlobby_highwaypass_progressbar_fill
+  - first:
+      213: 5942715713798812604
+    second: newlobby_highwaypass_rankicon
+  - first:
+      213: -1680058701801277543
+    second: newlobby_notification_1
+  - first:
+      213: 8680245804760636005
+    second: newlobby_notification_2
+  - first:
+      213: -7073032969161543652
+    second: newlobby_notification_mark
+  - first:
+      213: -6579352623591475714
+    second: newlobby_pc_arrows
+  - first:
+      213: 4102856583833688850
+    second: newlobby_pc_arrows2
+  - first:
+      213: -2169557504476322467
+    second: newlobby_pc_body
+  - first:
+      213: -7958777984311357490
+    second: newlobby_pc_body_golden
+  - first:
+      213: -8901437886268059336
+    second: newlobby_pc_stamps_highroller
+  - first:
+      213: 5251731966680133754
+    second: newlobby_pc_stamps_specialpatterns
+  - first:
+      213: 8317044189942748380
+    second: newlobby_pc_titlebar_ribbon
+  - first:
+      213: -7258351166490091586
+    second: newlobby_topbar_currencies_icons_helper
+  - first:
+      213: -4361470975568450161
+    second: newlobby_topbar_profile_car_bg
+  - first:
+      213: -7740883683053047227
+    second: newlobby_topbar_profile_car_frame
+  - first:
+      213: -4442881682876320939
+    second: newlobby_topbar_profile_frame
+  - first:
+      213: -3785936979056795086
+    second: newlobby_topbar_profile_progressbar_bg
+  - first:
+      213: 6825794667312039603
+    second: newlobby_topbar_profile_progressbar_fill
+  - first:
+      213: -2014386444936607039
+    second: newlobby_topbar_profile_progressbar_frame
+  - first:
+      213: -210866723763549961
+    second: newlobby_topbar_profile_star
+  - first:
+      213: 3322920904083737550
+    second: newlobby_topbar_settings
+  - first:
+      213: -7155860673843301800
+    second: newlobby_topbar_storeplus
+  - first:
+      213: 5316586637248827188
+    second: popup_title_ribbon
+  - first:
+      213: 1210710202111495228
+    second: popup_title_ribbon_straight
+  - first:
+      213: -3748406012068171966
+    second: settings_btns_apple
+  - first:
+      213: -6392396701905584195
+    second: settings_btns_facebook
+  - first:
+      213: 449871245635751649
+    second: settings_btns_fullscreen
+  - first:
+      213: -8440524306573129601
+    second: settings_btns_gender_female
+  - first:
+      213: -234176937625155540
+    second: settings_btns_gender_male
+  - first:
+      213: -42849871373767743
+    second: settings_btns_support
+  - first:
+      213: -3586896512565282863
+    second: settings_btns_www
+  - first:
+      213: 8501109652120190885
+    second: settings_checkbox_x
+  - first:
+      213: -8023997655657565792
+    second: shop_deals_art_1_coins
+  - first:
+      213: 5762606905896137624
+    second: shop_deals_art_1_credits
+  - first:
+      213: -1427635570852107394
+    second: shop_deals_art_1_daub
+  - first:
+      213: 9164079634430458666
+    second: shop_deals_art_1_powerups
+  - first:
+      213: 8021698069422008001
+    second: shop_deals_art_2_coins
+  - first:
+      213: -3963366785605468861
+    second: shop_deals_art_2_credits
+  - first:
+      213: -4833880935183530505
+    second: shop_deals_art_3_daub
+  - first:
+      213: 8591941216012606399
+    second: shop_deals_art_3_tickets_bronze
+  - first:
+      213: 1745120827528772480
+    second: shop_deals_art_3_tickets_silver
+  - first:
+      213: -3152640626620507218
+    second: shop_deals_art_4_coins
+  - first:
+      213: 8574185514983364741
+    second: shop_deals_art_4_credits
+  - first:
+      213: -4988694257036474632
+    second: shop_deals_art_4_powerups
+  - first:
+      213: 8170858292654396616
+    second: shop_deals_badges
+  - first:
+      213: -6019684753706095917
+    second: shop_deals_body
+  - first:
+      213: 4423764159718093656
+    second: shop_deals_body_stitch
+  - first:
+      213: 471971584928937873
+    second: shop_deals_icons_cards
+  - first:
+      213: -8969828602213886556
+    second: shop_deals_icons_chest1
+  - first:
+      213: -2567887825749857176
+    second: shop_deals_icons_chest2
+  - first:
+      213: -2834039770107089136
+    second: shop_deals_icons_chest3
+  - first:
+      213: -7633050377960199184
+    second: shop_deals_icons_chest4
+  - first:
+      213: 8387491553873353249
+    second: shop_deals_icons_daubalert
+  - first:
+      213: 7328920579067280761
+    second: shop_deals_icons_powerups_advanced
+  - first:
+      213: 5216592143403351102
+    second: shop_deals_icons_powerups_basic
+  - first:
+      213: 5668868816170377007
+    second: shop_deals_icons_powerups_unique
+  - first:
+      213: -1627637637044772808
+    second: shop_deals_icons_raritystar
+  - first:
+      213: -5702481535429285241
+    second: shop_deals_inventory_body
+  - first:
+      213: -4572132862179832588
+    second: shop_deals_inventory_body_cornerstitch
+  - first:
+      213: -8261044660068844383
+    second: shop_deals_inventory_body_divider
+  - first:
+      213: 573713390144342558
+    second: shop_deals_inventory_body_innerframe
+  - first:
+      213: -4797419143338036217
+    second: shop_deals_inventory_body_innerframe_boostedframe
+  - first:
+      213: -925878263018543006
+    second: shop_deals_inventory_body_innerframe_titles_advanced
+  - first:
+      213: -2207654034404685081
+    second: shop_deals_inventory_body_innerframe_titles_unique
+  - first:
+      213: -5984599719368087720
+    second: shop_deals_inventory_powerups_doublexp
+  - first:
+      213: -5734357920908596702
+    second: shop_deals_inventory_powerups_freedaub
+  - first:
+      213: 6749396909501203213
+    second: shop_deals_inventory_powerups_house
+  - first:
+      213: 733240523848773925
+    second: shop_deals_inventory_powerups_instantbingo
+  - first:
+      213: 2971624884184869105
+    second: shop_deals_inventory_powerups_joker
+  - first:
+      213: -8613251754897918156
+    second: shop_deals_inventory_powerups_nitro
+  - first:
+      213: 1314649056847930801
+    second: shop_deals_inventory_powerups_shuffle
+  - first:
+      213: 2407249748270760617
+    second: shop_deals_previouspriceline
+  - first:
+      213: 6874532251048327987
+    second: shop_deals_purchasebutton
+  - first:
+      213: 6856428659820635908
+    second: shop_deals_titleribbon
+  - first:
+      213: -2086054721219593801
+    second: shop_fade_to_black
+  - first:
+      213: -4334208290794334287
+    second: shop_i
+  - first:
+      213: -7161628781265142746
+    second: shop_rank_bg50opacity
+  - first:
+      213: 5410743870236873313
+    second: shop_rank_icon
+  - first:
+      213: -1921591468915706368
+    second: shop_rank_sidemenu_body
+  - first:
+      213: 4088527542719935793
+    second: shop_rank_sidemenu_icons_boosts
+  - first:
+      213: 9146465294223382857
+    second: shop_rank_sidemenu_icons_coins
+  - first:
+      213: -2014534611627474133
+    second: shop_rank_sidemenu_icons_powerups
+  - first:
+      213: -5565046552525541159
+    second: shop_rank_sidemenu_icons_tickets
+  - first:
+      213: 3919955499907782114
+    second: shop_rank_sidemenu_stitch
+  - first:
+      213: -7512207657362134673
+    second: tourIcon_1
+  - first:
+      213: -5788404218798802833
+    second: tourIcon_203
+  - first:
+      213: 1967848609792861768
+    second: tourIcon_301
+  - first:
+      213: 2089479909863103849
+    second: tourIcon_302
+  - first:
+      213: -3591942042201823261
+    second: tourIcon_401
+  - first:
+      213: 4711534163678159676
+    second: tourIcon_501
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: friends_bonus_icon
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1522
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c5d0e36b437b070800000000000000
+      internalID: 8122018410315734021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_buttons_blue
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1072
+        width: 378
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b8642ad38712fe0800000000000000
+      internalID: -1215558218302452968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_buttons_disabled
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1072
+        width: 186
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5107527, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a276f02e19f32fa70800000000000000
+      internalID: 8859213312786655018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_buttons_green
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1072
+        width: 378
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb4bcd9effc3f390800000000000000
+      internalID: -7785650638317466660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_firstcar
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 881
+        width: 518
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90203e147eff6ce70800000000000000
+      internalID: 9135270262875554313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_flare
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 291
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4ca58c7e28fa0a0800000000000000
+      internalID: -6868126974706268934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_peli1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 457
+        width: 352
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc365ae69cde8b60800000000000000
+      internalID: 7750374549485927629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_popup_body
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 888
+        width: 164
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93cf8ca5386e15e0800000000000000
+      internalID: -1936996209985076325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_popup_body_fold
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1653
+        width: 246
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45e84c0c13bcb110800000000000000
+      internalID: 1278093327312938319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_popup_body_plus
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1803
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b4eecc50131390800000000000000
+      internalID: -7848911734782510670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_popup_body_stitch
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2040
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371b86d83ca6b1750800000000000000
+      internalID: 6276727893794533747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_popup_frame
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 852
+        width: 190
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4538c2bb2f277a0800000000000000
+      internalID: -6380770836310960928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_popup_frame_sparkle
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1665
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eab903afebe8f220800000000000000
+      internalID: 2520023405978827489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_popup_goldframe2
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1519
+        width: 249
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debc07147ac95caa0800000000000000
+      internalID: -6141330274678420499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_tooltip_body
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 908
+        width: 87
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c44caa69e07a310800000000000000
+      internalID: 1416116648104184983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ftue_tooltip_body_speechbubble
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2013
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3cdc4d997195ab0800000000000000
+      internalID: -5018954360260017182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: generic_inner_frame
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 876
+        width: 216
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83550bddd85c17af0800000000000000
+      internalID: -400321678758881992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_bottombar_bdcollection
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 838
+        width: 251
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9d193bff9461a40800000000000000
+      internalID: 5338535770872469966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_bottombar_seperator_x
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2002
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b00cf54c8b3528f0800000000000000
+      internalID: -565980704509525837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_rightbuttons_bingomaster_icon
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1522
+        width: 140
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83358430b97025e90800000000000000
+      internalID: -7038554905270267080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_rightbuttons_bingomaster_ribbon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1921
+        width: 150
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3856b2db2344b590800000000000000
+      internalID: -7659423210752550853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_rightbuttons_daily_icon
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1516
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348eb0edf625b3460800000000000000
+      internalID: 7222457067838892099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_rightbuttons_daily_ribbon
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1921
+        width: 150
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8882643e941c6b1e0800000000000000
+      internalID: -2182344446324627320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_rightbuttons_minigame_icon
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1516
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b642cd70ed8911690800000000000000
+      internalID: -7633151814034250645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_rightbuttons_minigame_ribbon
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1921
+        width: 150
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e08c0a338c9c40800000000000000
+      internalID: 5520431528590501188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_popup_i
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1895
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a535b178e68b97d0800000000000000
+      internalID: -2910584401266657879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_popup_stitch_horizontal
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2036
+        width: 29
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18d3e8f66dd1730800000000000000
+      internalID: 3971566221026754996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_popup_stitch_vertical
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2015
+        width: 9
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0009be04e236460800000000000000
+      internalID: 7233676282852016326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_popup_x
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1804
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605d0051be1c17010800000000000000
+      internalID: 1184941392389002502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_bottombar_events_progressbar
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2008
+        width: 113
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aadfabb337022b00800000000000000
+      internalID: 802211602398960291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_bottombar_events_progressbar_fill
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2027
+        width: 90
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e8927a966639b70800000000000000
+      internalID: 8904573492203720236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_buttons_play
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1225
+        width: 322
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266576e2a98ca390800000000000000
+      internalID: -7805712721395751387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_buttons_sidebuttons_icons_inbox
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1912
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5388d1936caf38c0800000000000000
+      internalID: -4017302798942567589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_buttons_sidebuttons_icons_sale
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1520
+        width: 172
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225ddad9cc80fdbe0800000000000000
+      internalID: -1450430880078244574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_highwaypass_body
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 541
+        width: 147
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33940c509336ffe0800000000000000
+      internalID: -1155679559261842627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_highwaypass_button_premium
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1804
+        width: 115
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750e2af86e87bdfa0800000000000000
+      internalID: -5774889165524901801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_highwaypass_progressbar_bingoicon
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1799
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce56292a46b12a80800000000000000
+      internalID: -8493306992609829181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_highwaypass_progressbar_body
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2025
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fe3c2dbacadb4a0800000000000000
+      internalID: -6575910026915614975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_highwaypass_progressbar_fill
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2025
+        width: 89
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c1ca07b9cd5310800000000000000
+      internalID: 1395493247551390708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_highwaypass_rankicon
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1986
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb33c12b474c87250800000000000000
+      internalID: 5942715713798812604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_notification_1
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1997
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997b455138b3fa8e0800000000000000
+      internalID: -1680058701801277543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_notification_2
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2001
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a15dbc19d667870800000000000000
+      internalID: 8680245804760636005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_notification_mark
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1992
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10ff743df987dd90800000000000000
+      internalID: -7073032969161543652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_pc_arrows
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1655
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5bbc2d5a171b4a0800000000000000
+      internalID: -6579352623591475714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_pc_arrows2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1228
+        width: 78
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b97cb335640f830800000000000000
+      internalID: 4102856583833688850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_pc_body
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 305
+        width: 260
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e7e9c1fe24e1e0800000000000000
+      internalID: -2169557504476322467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_pc_body_golden
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 305
+        width: 260
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf0ce6379dbc8190800000000000000
+      internalID: -7958777984311357490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_pc_stamps_highroller
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1783
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831d9ce776db77480800000000000000
+      internalID: -8901437886268059336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_pc_stamps_specialpatterns
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1783
+        width: 123
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7078891666e1e840800000000000000
+      internalID: 5251731966680133754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_pc_titlebar_ribbon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1523
+        width: 549
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd493ca00a31c6370800000000000000
+      internalID: 8317044189942748380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_currencies_icons_helper
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1911
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfd05a0218254b90800000000000000
+      internalID: -7258351166490091586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_profile_car_bg
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1904
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8de01b7141f873c0800000000000000
+      internalID: -4361470975568450161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_profile_car_frame
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1793
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427100ad4bd29490800000000000000
+      internalID: -7740883683053047227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_profile_frame
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1657
+        width: 61
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553311916a6b752c0800000000000000
+      internalID: -4442881682876320939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_profile_progressbar_bg
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2025
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ed455066a57bc0800000000000000
+      internalID: -3785936979056795086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_profile_progressbar_fill
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2025
+        width: 89
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c3e6d5181abe50800000000000000
+      internalID: 6825794667312039603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_profile_progressbar_frame
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2017
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca013573367b04e0800000000000000
+      internalID: -2014386444936607039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_profile_star
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1997
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f88f1bf4d9d21df0800000000000000
+      internalID: -210866723763549961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_settings
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1908
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb81a8e4f26d1e20800000000000000
+      internalID: 3322920904083737550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newlobby_topbar_storeplus
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2002
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852f16961a641bc90800000000000000
+      internalID: -7155860673843301800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_title_ribbon
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1223
+        width: 465
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f0ecac06f48c940800000000000000
+      internalID: 5316586637248827188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup_title_ribbon_straight
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1374
+        width: 542
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c0cc2a38e4dc010800000000000000
+      internalID: 1210710202111495228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_btns_apple
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1377
+        width: 360
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fecb8879cfafbc0800000000000000
+      internalID: -3748406012068171966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_btns_facebook
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1377
+        width: 360
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbff9876115a947a0800000000000000
+      internalID: -6392396701905584195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_btns_fullscreen
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1911
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee08cea3834e3600800000000000000
+      internalID: 449871245635751649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_btns_gender_female
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1902
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7888acecdb3dda80800000000000000
+      internalID: -8440524306573129601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_btns_gender_male
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1902
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c288342e05900ccf0800000000000000
+      internalID: -234176937625155540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_btns_support
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1655
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb681ed444c76ff0800000000000000
+      internalID: -42849871373767743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_btns_www
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1655
+        width: 150
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7757240a8c83ec0800000000000000
+      internalID: -3586896512565282863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_checkbox_x
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1918
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afb44310320af570800000000000000
+      internalID: 8501109652120190885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_1_coins
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1784
+        width: 157
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1b6f725a805a090800000000000000
+      internalID: -8023997655657565792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_1_credits
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1781
+        width: 157
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f6260374e8ff40800000000000000
+      internalID: 5762606905896137624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_1_daub
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1658
+        width: 157
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7be5a22305003ce0800000000000000
+      internalID: -1427635570852107394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_1_powerups
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 157
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7e97cfd95d2f70800000000000000
+      internalID: 9164079634430458666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_2_coins
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1373
+        width: 197
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e553b4ebc25f60800000000000000
+      internalID: 8021698069422008001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_2_credits
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 197
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d776548ea4ff8c0800000000000000
+      internalID: -3963366785605468861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_3_daub
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1070
+        width: 210
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f54ad386ea9aecb0800000000000000
+      internalID: -4833880935183530505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_3_tickets_bronze
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1228
+        width: 210
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb187f8305bc3770800000000000000
+      internalID: 8591941216012606399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_3_tickets_silver
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1228
+        width: 210
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bfcf6852ae73810800000000000000
+      internalID: 1745120827528772480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_4_coins
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1070
+        width: 210
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd1d1bd029f34d0800000000000000
+      internalID: -3152640626620507218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_4_credits
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1070
+        width: 210
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58812e24c40adf670800000000000000
+      internalID: 8574185514983364741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_art_4_powerups
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1073
+        width: 210
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f64f44210994cab0800000000000000
+      internalID: -4988694257036474632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_badges
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1376
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c458bb7358b46170800000000000000
+      internalID: 8170858292654396616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_body
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 166
+        width: 163
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da63833c98c57ca0800000000000000
+      internalID: -6019684753706095917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_body_stitch
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2043
+        width: 18
+        height: 5
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f91ea01e546d30800000000000000
+      internalID: 4423764159718093656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_cards
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1986
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19774c7e7a7cc8600800000000000000
+      internalID: 471971584928937873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_chest1
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2006
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a517e41964c48380800000000000000
+      internalID: -8969828602213886556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_chest2
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2000
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c2123b0a70d5cd0800000000000000
+      internalID: -2567887825749857176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_chest3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1997
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fef6f28d77ba8d0800000000000000
+      internalID: -2834039770107089136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_chest4
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1999
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb65057f15f11690800000000000000
+      internalID: -7633050377960199184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_daubalert
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1523
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ad531212b566470800000000000000
+      internalID: 8387491553873353249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_powerups_advanced
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1899
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dfa56bf6e85b560800000000000000
+      internalID: 7328920579067280761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_powerups_basic
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1899
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c76ad6aee056840800000000000000
+      internalID: 5216592143403351102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_powerups_unique
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1899
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fdf12472edbae40800000000000000
+      internalID: 5668868816170377007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_icons_raritystar
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2021
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e3e451387969e0800000000000000
+      internalID: -1627637637044772808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_body
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1227
+        width: 155
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a638ea147bcd0b0800000000000000
+      internalID: -5702481535429285241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_body_cornerstitch
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 2002
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc81e3d2658c80c0800000000000000
+      internalID: -4572132862179832588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_body_divider
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2043
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac75fa86afda5d80800000000000000
+      internalID: -8261044660068844383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_body_innerframe
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1904
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a4076e94d36f700800000000000000
+      internalID: 573713390144342558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_body_innerframe_boostedframe
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1798
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047daaf4b42c6db0800000000000000
+      internalID: -4797419143338036217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_body_innerframe_titles_advanced
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1996
+        width: 71
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268268310ae9623f0800000000000000
+      internalID: -925878263018543006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_body_innerframe_titles_unique
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1995
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eac9543a56dc51e0800000000000000
+      internalID: -2207654034404685081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_powerups_doublexp
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1903
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857a924534e62fca0800000000000000
+      internalID: -5984599719368087720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_powerups_freedaub
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1903
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aab455ad77b60b0800000000000000
+      internalID: -5734357920908596702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_powerups_house
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1903
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0340f6babcaaad50800000000000000
+      internalID: 6749396909501203213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_powerups_instantbingo
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1903
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5217dee1f5efc2a00800000000000000
+      internalID: 733240523848773925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_powerups_joker
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1903
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8ec8b76155d3920800000000000000
+      internalID: 2971624884184869105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_powerups_nitro
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1903
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437bc44f925977880800000000000000
+      internalID: -8613251754897918156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_inventory_powerups_shuffle
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1903
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b529b51a529e3210800000000000000
+      internalID: 1314649056847930801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_previouspriceline
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2022
+        width: 84
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2c35354e4486120800000000000000
+      internalID: 2407249748270760617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_purchasebutton
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 385
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49679488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb3b4d8ae376f50800000000000000
+      internalID: 6874532251048327987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_deals_titleribbon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1379
+        width: 434
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407aa680a8de62f50800000000000000
+      internalID: 6856428659820635908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_fade_to_black
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 870
+        width: 50
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9fdaf8848dc03e0800000000000000
+      internalID: -2086054721219593801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_i
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1662
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b796ace58cc9d3c0800000000000000
+      internalID: -4334208290794334287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_rank_bg50opacity
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1791
+        width: 117
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3a7f3198cc9c90800000000000000
+      internalID: -7161628781265142746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_rank_icon
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1226
+        width: 92
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50340134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1625714f1e2d61b40800000000000000
+      internalID: 5410743870236873313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_rank_sidemenu_body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2044
+        width: 294
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006bbd37db22555e0800000000000000
+      internalID: -1921591468915706368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_rank_sidemenu_icons_boosts
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1662
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f83e532e5db830800000000000000
+      internalID: 4088527542719935793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_rank_sidemenu_icons_coins
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1796
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9499f9c99b5ceee70800000000000000
+      internalID: 9146465294223382857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_rank_sidemenu_icons_powerups
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1797
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b230736b17fea04e0800000000000000
+      internalID: -2014534611627474133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_rank_sidemenu_icons_tickets
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1794
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f33635abf4c2b0800000000000000
+      internalID: -5565046552525541159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop_rank_sidemenu_stitch
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2028
+        width: 3
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5975322ca766630800000000000000
+      internalID: 3919955499907782114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tourIcon_1
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1654
+        width: 267
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e5ffdfe64fb790800000000000000
+      internalID: -7512207657362134673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tourIcon_203
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1781
+        width: 221
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68ff1208057bafa0800000000000000
+      internalID: -5788404218798802833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tourIcon_301
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1521
+        width: 226
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846237e62e33f4b10800000000000000
+      internalID: 1967848609792861768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tourIcon_302
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1227
+        width: 203
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d94b058e25ffc10800000000000000
+      internalID: 2089479909863103849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tourIcon_401
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1784
+        width: 247
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7e4c85ebbd62ec0800000000000000
+      internalID: -3591942042201823261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tourIcon_501
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1659
+        width: 248
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33672deb5bb26140800000000000000
+      internalID: 4711534163678159676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: testfakelobby_atlases
+  assetBundleVariant: 

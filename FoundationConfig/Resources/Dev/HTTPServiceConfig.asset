@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6227a126d6d2d4dbc9d46eb457870bd7, type: 3}
+  m_Name: HTTPServiceConfig
+  m_EditorClassIdentifier: 
+  SupportedPlatform: 0
+  IsEnabled: 1
+  LogLevel: 3
+  RequestConfig:
+    HttpDataFormat: 0
+    _retryCount: 1
+    _backoff: 1
+    _retryDelay: 20
+    _timeout: 60000
